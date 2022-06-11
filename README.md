@@ -1,9 +1,5 @@
 # BigInteger
-<<<<<<< Updated upstream
- 
-=======
 
->>>>>>> Stashed changes
 Description
 -----------
 
@@ -23,4 +19,3 @@ The least significan digit is stored in the first node and the most significant 
 A boolean variable 'negative' is true if the integer in question is negative. This is because the negative sign will not be part of the linked list.
 
 The function of the program is to take integers as user input, clean up any unnecessary spaces and symbols, store them as linked lists, and perform any desired operations.
->>>>>>> Stashed changes
