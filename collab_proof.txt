@@ -2,3 +2,4 @@ My name is Avi, and I have successfully collaborated on this repository using gi
 This line added to Avi's copy.
 Owner Ankita is editing.
 Take two of line added to Avi's copy
+After conflict
