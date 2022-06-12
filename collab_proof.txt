@@ -1,1 +1,2 @@
 My name is Avi, and I have successfully collaborated on this repository using git. 
+This line added to Avi's copy.
